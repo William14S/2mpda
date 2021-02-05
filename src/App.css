@@ -1,3 +1,33 @@
 .App {
   text-align: center;
 }
+.navbar {
+    background-color: black;
+    padding: 20px;
+}
+
+.navbar h3{
+    font-size:300px;
+    margin: 0;
+}
+.dashboard {
+    background-color: tomato;
+    width: 50%;
+    margin-left: 25%; 
+    padding: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.choice-group {
+    text-align: left;
+}
+.card-container{
+    display:flex;
+}
+.Card {
+    
+    background-color: tomato;
+    width: 30%;
+    padding: 20px;
+    margin: 10px;
+}
